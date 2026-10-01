@@ -1,0 +1,16 @@
+# Eclipse workspace metadata
+.metadata/
+
+# Compiled Java class files
+**/bin/
+**/*.class
+
+# Eclipse project settings (optional: keep .project and .classpath for IDE setup)
+**/.settings/
+
+# Build artifacts
+**/target/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
